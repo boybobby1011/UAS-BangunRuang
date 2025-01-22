@@ -1,2 +1,5 @@
 # UAS-BangunRuang
-Uas_praktikum_IPL_BoyBobbyPutra
+Uas Praktikum IPL Boy Bobby Putra
+Implementasi Class Diagram Bangun Ruang dengan Java
+
+
